@@ -1,3 +1,8 @@
 body{
-    background-color: dimgray;
+    background-color: rgb(red, green, blue)
+    color: black;
+}
+
+img{
+    width: 20%;
 }
