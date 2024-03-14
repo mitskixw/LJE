@@ -15,5 +15,9 @@ img{
 }
 
 .img-intro{
-    width: 20px:
+    width: 60px:
+}
+
+.intro{
+    display:flex;  
 }
