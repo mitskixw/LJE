@@ -15,9 +15,11 @@ img{
 }
 
 .img-intro{
-    width: 50%;
+    width: 20%;
 }
-
+.img-intre{
+    width: 60%;
+}
 .intro{
     display: flex;
     background-color: rgb(255, 255, 255);
