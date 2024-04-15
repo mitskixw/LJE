@@ -46,3 +46,8 @@ footer{
      background-color: aqua;
     color: black;
 }
+
+a{
+    color: black;
+    text-decoration: underline;
+}
