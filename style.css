@@ -20,6 +20,12 @@ img{
 .img-intre{
     width: 60%;
 }
+.img-intri{
+    width: 20%;
+}
+.img-intra{
+    width: 60%;
+}
 .intro{
     display: flex;
     background-color: rgb(255, 255, 255);
@@ -54,3 +60,7 @@ a{
     text-decoration: none;
 }
 
+
+.img-intro {
+
+}
