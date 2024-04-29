@@ -47,13 +47,13 @@ img{
      width: 40%;
 }
 .pessoa{
-    border: 3px solid rgb(255, 38, 0);
+    border: 3px solid rgb(5, 1, 0);
     margin: 12px;
     justify-content: space-around;
 }
 
 footer{
-     background-color: aqua;
+     background-color: rgb(255, 94, 0);
     color: black;
 }
 
