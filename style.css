@@ -18,6 +18,7 @@ img{
 .niu{
     background-color: #E5B434;
 }
+
 .img-intro{
     width: 20%;
 }
@@ -40,7 +41,6 @@ img{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    background-color: #E5B434;
 }
 
 .foto-equipe{
