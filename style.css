@@ -49,7 +49,7 @@ img{
 .pessoa{
     border: 3px solid green;
     margin: 12px;
-    background-color:
+    justify-content: space-around;
 }
 
 footer{
