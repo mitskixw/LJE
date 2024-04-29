@@ -47,7 +47,7 @@ img{
      width: 40%;
 }
 .pessoa{
-    border: 3px solid green;
+    border: 3px solid rgb(255, 38, 0);
     margin: 12px;
     justify-content: space-around;
 }
