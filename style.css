@@ -12,6 +12,7 @@ img{
     display: flex;
     align-items: center;
     justify-content: space-around;
+background-color: #E5B434;
 }
 
 .img-intro{
